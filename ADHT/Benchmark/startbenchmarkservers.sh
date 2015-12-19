@@ -1,0 +1,1 @@
+python DIndexServerBenchmark.py -c config.json -s 3340
